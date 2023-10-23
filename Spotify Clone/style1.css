@@ -1,0 +1,35 @@
+body {
+    background-color: #fff;
+   }
+   
+   #player {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+   }
+   
+   img {
+    width: 100%;
+   }
+   
+   h1 {
+    font-size: 24px;
+   }
+   
+   p {
+    font-size: 16px;
+   }
+   
+   button {
+    background-color: #ccc;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+   }
+   
+   button:hover {
+    background-color: #ddd;
+   }
+   
